@@ -1,0 +1,14 @@
+C:\Users\Patrik Ask\Desktop\BrainFudge\obj\Debug\net7.0\BrainFudge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik Ask\Desktop\BrainFudge\obj\Debug\net7.0\BrainFudge.AssemblyInfoInputs.cache
+C:\Users\Patrik Ask\Desktop\BrainFudge\obj\Debug\net7.0\BrainFudge.AssemblyInfo.cs
+C:\Users\Patrik Ask\Desktop\BrainFudge\obj\Debug\net7.0\BrainFudge.csproj.CoreCompileInputs.cache
+C:\Users\Patrik Ask\Desktop\BrainFudge\bin\Debug\net7.0\BrainFudge.exe
+C:\Users\Patrik Ask\Desktop\BrainFudge\bin\Debug\net7.0\BrainFudge.deps.json
+C:\Users\Patrik Ask\Desktop\BrainFudge\bin\Debug\net7.0\BrainFudge.runtimeconfig.json
+C:\Users\Patrik Ask\Desktop\BrainFudge\bin\Debug\net7.0\BrainFudge.dll
+C:\Users\Patrik Ask\Desktop\BrainFudge\bin\Debug\net7.0\BrainFudge.pdb
+C:\Users\Patrik Ask\Desktop\BrainFudge\obj\Debug\net7.0\BrainFudge.dll
+C:\Users\Patrik Ask\Desktop\BrainFudge\obj\Debug\net7.0\refint\BrainFudge.dll
+C:\Users\Patrik Ask\Desktop\BrainFudge\obj\Debug\net7.0\BrainFudge.pdb
+C:\Users\Patrik Ask\Desktop\BrainFudge\obj\Debug\net7.0\BrainFudge.genruntimeconfig.cache
+C:\Users\Patrik Ask\Desktop\BrainFudge\obj\Debug\net7.0\ref\BrainFudge.dll
